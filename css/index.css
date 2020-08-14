@@ -210,6 +210,11 @@ button:hover {
     width: 100%;
   }
 
+  nav span {
+    border-left: 3px solid #626262;
+    
+  }
+
   .artist {
     width: 70%;
   }
